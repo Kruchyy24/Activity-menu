@@ -1,0 +1,16 @@
+{
+    "name": "Signals",
+    "rootNamespace": "",
+    "references": [
+        "GUID:aef50251f8b0b6341a1a2912c1945a19"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
